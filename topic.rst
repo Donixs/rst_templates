@@ -1,35 +1,15 @@
-Use this template to start a new topic
-
-.. _Heading 1 label:
-
-Topic Title
+Bartending
 ###########
 
-.. include:: ../../shared/utils/page_toc.txt
+What is Bartending ?
+**********************
 
-If topic has multiple sections, use page-toc.txt utility ^^. Otherwise remove.
+Bartending is the profession of serving drinks at a bar, usually alcoholic. Either mixing varies liqours together into a glass or serving beer, what kind of drinks and how to make them depend on the establishment they're created in. A bartenders job can revolve around serving beers, wines, mixed drinks and cocktails, with large amount of variety in each group.
 
-Only add text under Heading 1 if there are no subsections
-
-
-What is ?
-***********
-
-High level conceptual information (Heading 2).
-
-At a minimum, a concept includes the following components.
-
-* A title, phrased as a gerund or question.
-* One or more body paragraphs.
-
-Complex concepts may contain 2 or more subsections.
-
-
-What is <part of subject> ?
+What is a cocktail ?
 ============================
 
-When you need to break down a subject, you can break it down into subsections (H3s). Typically you woul have 0 H3s, or 2+ H3s.
-
+A cocktail is a drink 
 
 What is <part of subject> ?
 ============================
